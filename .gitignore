@@ -1,0 +1,8 @@
+*** Editor Configurations ***
+**.nova
+**.vscode
+
+*** Build Products ***
+**.mcaddon
+**.mcpack
+**.mctemplate
